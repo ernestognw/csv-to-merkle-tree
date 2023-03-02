@@ -15,7 +15,7 @@ value1,value2,...,valueN
 value1,value2,...,valueN
 ```
 
-Where the types follow the [ABI specification](https://docs.soliditylang.org/en/abi-spec.html#types), while the format of the value is required to be consistent with its typing.
+Where the types follow the [ABI specification](https://docs.soliditylang.org/en/latest/abi-spec.html#types), while the format of the value is required to be consistent with its typing.
 
 You'll be required to replace this file with the desired values.
 
